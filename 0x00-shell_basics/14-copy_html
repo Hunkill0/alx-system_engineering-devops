@@ -1,1 +1,2 @@
-#!/bin/bas:h
+#!/bin/bash
+#cp -n *.html ..
