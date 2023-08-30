@@ -1,0 +1,1 @@
+print currntlt working dirctory
