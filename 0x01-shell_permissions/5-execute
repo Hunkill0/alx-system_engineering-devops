@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd u+x file
+chomd u+x hello
