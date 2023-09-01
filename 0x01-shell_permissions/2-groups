@@ -1,2 +1,2 @@
-#!/bin/bashid
+#!/bin/bash
 id -G
