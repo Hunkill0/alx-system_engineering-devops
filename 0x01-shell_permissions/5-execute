@@ -1,2 +1,2 @@
-#!/bin/bash
-rwxr--r-- hello
+#!/bin hello
+chmod 701 hello
