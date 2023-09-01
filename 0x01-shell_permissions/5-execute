@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -rwxr--r-- hello
+rwxr--r-- hello
